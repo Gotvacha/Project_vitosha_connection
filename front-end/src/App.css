@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
